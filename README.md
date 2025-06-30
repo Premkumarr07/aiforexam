@@ -20,8 +20,7 @@
 
 | AI Chat | Profile | Premium |
 |--------|---------|---------|
-| ![](image/WhatsApp%20Image%202025-07-01%20at%2000.22.15_ff6b5b5c.jpg) | ![](image/WhatsApp%20Image%202025-07-01%20at%2000.22.15_445ff193.jpg) | ![](image/WhatsApp%20Image%202025-07-01%20at%2000.22.15_445ff193.jpg) |
-
+| ![](image/WhatsApp%20Image%202025-07-01%20at%2000.22.15_ff6b5b5c.jpg) | ![](image/WhatsApp%20Image%202025-07-01%20at%2000.22.15_445ff193.jpg) | 
 ---
 
 ## 🚀 Features
