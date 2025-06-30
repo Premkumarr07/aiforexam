@@ -1,6 +1,5 @@
 # 📚 AI For Exam – Your Smart Exam Preparation Partner
 
-![Banner](image/Screenshot_20250701-002138.aiforexam.png)
 
 **AI For Exam** is an AI-powered mobile app designed for government exam aspirants like UPSC, SSC, Banking, and State exams. Built with Flutter, it provides a seamless experience with animated UI, AI chat support, progress tracking, and daily practice tools — everything needed for modern competitive exam preparation.
 
